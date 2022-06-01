@@ -1,0 +1,16 @@
+C:\Users\vergu\source\repos\TahminOyunu\bin\Debug\netcoreapp3.1\TahminOyunu.exe
+C:\Users\vergu\source\repos\TahminOyunu\bin\Debug\netcoreapp3.1\TahminOyunu.deps.json
+C:\Users\vergu\source\repos\TahminOyunu\bin\Debug\netcoreapp3.1\TahminOyunu.runtimeconfig.json
+C:\Users\vergu\source\repos\TahminOyunu\bin\Debug\netcoreapp3.1\TahminOyunu.runtimeconfig.dev.json
+C:\Users\vergu\source\repos\TahminOyunu\bin\Debug\netcoreapp3.1\TahminOyunu.dll
+C:\Users\vergu\source\repos\TahminOyunu\bin\Debug\netcoreapp3.1\TahminOyunu.pdb
+C:\Users\vergu\source\repos\TahminOyunu\obj\Debug\netcoreapp3.1\TahminOyunu.csproj.AssemblyReference.cache
+C:\Users\vergu\source\repos\TahminOyunu\obj\Debug\netcoreapp3.1\TahminOyunu.Form1.resources
+C:\Users\vergu\source\repos\TahminOyunu\obj\Debug\netcoreapp3.1\TahminOyunu.csproj.GenerateResource.cache
+C:\Users\vergu\source\repos\TahminOyunu\obj\Debug\netcoreapp3.1\TahminOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vergu\source\repos\TahminOyunu\obj\Debug\netcoreapp3.1\TahminOyunu.AssemblyInfoInputs.cache
+C:\Users\vergu\source\repos\TahminOyunu\obj\Debug\netcoreapp3.1\TahminOyunu.AssemblyInfo.cs
+C:\Users\vergu\source\repos\TahminOyunu\obj\Debug\netcoreapp3.1\TahminOyunu.csproj.CoreCompileInputs.cache
+C:\Users\vergu\source\repos\TahminOyunu\obj\Debug\netcoreapp3.1\TahminOyunu.dll
+C:\Users\vergu\source\repos\TahminOyunu\obj\Debug\netcoreapp3.1\TahminOyunu.pdb
+C:\Users\vergu\source\repos\TahminOyunu\obj\Debug\netcoreapp3.1\TahminOyunu.genruntimeconfig.cache
